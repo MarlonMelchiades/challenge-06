@@ -7,7 +7,7 @@ body.innerHTML = `
     </div>
     <div class="container p-4 pb-0">
       <section class="pb-4">
-        <p>Eai, beleza?</br>Aqui vão alguns Challenges feitos por Marlon Melchiades, com JavaScript puro!</br>Foi muito divertido fazer eles! </br> Esse é o #06 de #10. Veja e se divirta também! (vai que você ache algo útil aqui pra você!) ㋡</p>
+        <p>Eai, beleza?</br>Aqui vão alguns Challenges feitos por Marlon Melchiades, com JavaScript puro!</br>Foi muito divertido fazer eles! </br> Esse é o #06 de #07. Veja e se divirta também! (vai que você ache algo útil aqui pra você!) ㋡</p>
       </section>
     </div>
   </header>
