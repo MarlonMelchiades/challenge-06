@@ -4,3 +4,4 @@ the sixth in a series of challenges made in pure javascript!
 2
 3
 4
+5
