@@ -1,2 +1,2 @@
 # challenge-06
-the sixth in a series of challenges made in pure javascript!
+O sexto de uma série de desafios feitos em javascript puro! 
